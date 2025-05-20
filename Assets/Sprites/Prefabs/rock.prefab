@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3287644856989281079}
   - component: {fileID: 3642762049995412324}
   m_Layer: 0
-  m_Name: PC Computer - Stardew Valley - Mines_49
+  m_Name: rock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

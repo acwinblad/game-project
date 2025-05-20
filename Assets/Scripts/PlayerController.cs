@@ -48,16 +48,19 @@ public class PlayerController : MonoBehaviour
   void Update()
   {
     move = MoveAction.ReadValue<Vector2>();
+    Debug.Log(move);
 
     if (!Mathf.Approximately(move.x, 0.0f) || !Mathf.Approximately(move.y, 0.0f))
     {
+      //Debug.Log(move.x + "and" + move.y);
+
       moveDirection.Set(move.x, move.y);
       moveDirection.Normalize();
     }
 
-    animator.SetFloat("Look X", moveDirection.x);
-    animator.SetFloat("Look Y", moveDirection.y);
-    animator.SetFloat("Speed", move.magnitude);
+    //animator.SetFloat("Look X", moveDirection.x);
+    //animator.SetFloat("Look Y", moveDirection.y);
+    //animator.SetFloat("Speed", move.magnitude);
 
     //if (isInvincible)
     //{
