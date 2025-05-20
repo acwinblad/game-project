@@ -7,7 +7,7 @@ public class PlayerController : MonoBehaviour
   public InputAction MoveAction;
   Rigidbody2D rigidbody2d;
   Vector2 move;
-  public float speed = 3.0f;
+  public float speed = 1.0f;
 
 
   // Variables related to the health system
