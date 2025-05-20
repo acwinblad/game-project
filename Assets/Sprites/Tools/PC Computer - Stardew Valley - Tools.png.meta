@@ -1,0 +1,3848 @@
+fileFormatVersion: 2
+guid: a669803b2681f5748a34a112d83b5cb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3170235829009277148
+    second: PC Computer - Stardew Valley - Tools_0
+  - first:
+      213: 8561620078410858527
+    second: PC Computer - Stardew Valley - Tools_1
+  - first:
+      213: -6679797841116223544
+    second: PC Computer - Stardew Valley - Tools_2
+  - first:
+      213: -6128536218954831702
+    second: PC Computer - Stardew Valley - Tools_3
+  - first:
+      213: -6605897663245043847
+    second: PC Computer - Stardew Valley - Tools_4
+  - first:
+      213: 8133195487955885123
+    second: PC Computer - Stardew Valley - Tools_5
+  - first:
+      213: 8676654821475911958
+    second: PC Computer - Stardew Valley - Tools_6
+  - first:
+      213: -5965993057372070786
+    second: PC Computer - Stardew Valley - Tools_7
+  - first:
+      213: -1919813367721834364
+    second: PC Computer - Stardew Valley - Tools_8
+  - first:
+      213: 8209821698540639056
+    second: PC Computer - Stardew Valley - Tools_9
+  - first:
+      213: 2510294645033403356
+    second: PC Computer - Stardew Valley - Tools_10
+  - first:
+      213: 2601694002557702965
+    second: PC Computer - Stardew Valley - Tools_11
+  - first:
+      213: 3105766223580972984
+    second: PC Computer - Stardew Valley - Tools_12
+  - first:
+      213: 2788176294670545785
+    second: PC Computer - Stardew Valley - Tools_13
+  - first:
+      213: 5274225459739828931
+    second: PC Computer - Stardew Valley - Tools_14
+  - first:
+      213: 1907041270800938588
+    second: PC Computer - Stardew Valley - Tools_15
+  - first:
+      213: 850677095495136700
+    second: PC Computer - Stardew Valley - Tools_16
+  - first:
+      213: 3842100768675081710
+    second: PC Computer - Stardew Valley - Tools_17
+  - first:
+      213: 785577116878651689
+    second: PC Computer - Stardew Valley - Tools_18
+  - first:
+      213: -31587069280476964
+    second: PC Computer - Stardew Valley - Tools_19
+  - first:
+      213: -7387361385491841565
+    second: PC Computer - Stardew Valley - Tools_20
+  - first:
+      213: 4719604278776141049
+    second: PC Computer - Stardew Valley - Tools_21
+  - first:
+      213: -1659039876140252039
+    second: PC Computer - Stardew Valley - Tools_22
+  - first:
+      213: -4219938997932752949
+    second: PC Computer - Stardew Valley - Tools_23
+  - first:
+      213: -3176590971257744214
+    second: PC Computer - Stardew Valley - Tools_24
+  - first:
+      213: 7048833630959126187
+    second: PC Computer - Stardew Valley - Tools_25
+  - first:
+      213: -5703374574275247918
+    second: PC Computer - Stardew Valley - Tools_26
+  - first:
+      213: 4981026879921118996
+    second: PC Computer - Stardew Valley - Tools_27
+  - first:
+      213: 7834522884039893664
+    second: PC Computer - Stardew Valley - Tools_28
+  - first:
+      213: 413435495737649985
+    second: PC Computer - Stardew Valley - Tools_29
+  - first:
+      213: 5622038946479410637
+    second: PC Computer - Stardew Valley - Tools_30
+  - first:
+      213: 3231919445326251680
+    second: PC Computer - Stardew Valley - Tools_31
+  - first:
+      213: 4681934344790851985
+    second: PC Computer - Stardew Valley - Tools_32
+  - first:
+      213: -6701536370819416495
+    second: PC Computer - Stardew Valley - Tools_33
+  - first:
+      213: 2387520333222197146
+    second: PC Computer - Stardew Valley - Tools_34
+  - first:
+      213: 5206446780723470591
+    second: PC Computer - Stardew Valley - Tools_35
+  - first:
+      213: 7182312524518785161
+    second: PC Computer - Stardew Valley - Tools_36
+  - first:
+      213: -4472929605729828875
+    second: PC Computer - Stardew Valley - Tools_37
+  - first:
+      213: 5689705821162098738
+    second: PC Computer - Stardew Valley - Tools_38
+  - first:
+      213: -6644892633470127241
+    second: PC Computer - Stardew Valley - Tools_39
+  - first:
+      213: -2193853660784660623
+    second: PC Computer - Stardew Valley - Tools_40
+  - first:
+      213: 5994053860078559989
+    second: PC Computer - Stardew Valley - Tools_41
+  - first:
+      213: -2026883843317030089
+    second: PC Computer - Stardew Valley - Tools_42
+  - first:
+      213: 8955648404715290605
+    second: PC Computer - Stardew Valley - Tools_43
+  - first:
+      213: -4000889788122703082
+    second: PC Computer - Stardew Valley - Tools_44
+  - first:
+      213: -1477798930917704569
+    second: PC Computer - Stardew Valley - Tools_45
+  - first:
+      213: 268275038622063872
+    second: PC Computer - Stardew Valley - Tools_46
+  - first:
+      213: -3340019547786352809
+    second: PC Computer - Stardew Valley - Tools_47
+  - first:
+      213: 6989978340243979407
+    second: PC Computer - Stardew Valley - Tools_48
+  - first:
+      213: -6702121207634638268
+    second: PC Computer - Stardew Valley - Tools_49
+  - first:
+      213: -6711119270183900174
+    second: PC Computer - Stardew Valley - Tools_50
+  - first:
+      213: 896961993546449738
+    second: PC Computer - Stardew Valley - Tools_51
+  - first:
+      213: 403628291488722672
+    second: PC Computer - Stardew Valley - Tools_52
+  - first:
+      213: 4064244919193825419
+    second: PC Computer - Stardew Valley - Tools_53
+  - first:
+      213: 3625147742472045423
+    second: PC Computer - Stardew Valley - Tools_54
+  - first:
+      213: 7951674224689766069
+    second: PC Computer - Stardew Valley - Tools_55
+  - first:
+      213: 3776491592276835184
+    second: PC Computer - Stardew Valley - Tools_56
+  - first:
+      213: -6949290957038054700
+    second: PC Computer - Stardew Valley - Tools_57
+  - first:
+      213: -8505455994223504378
+    second: PC Computer - Stardew Valley - Tools_58
+  - first:
+      213: 3505564420479831375
+    second: PC Computer - Stardew Valley - Tools_59
+  - first:
+      213: -7418398540031364536
+    second: PC Computer - Stardew Valley - Tools_60
+  - first:
+      213: -439001330445023799
+    second: PC Computer - Stardew Valley - Tools_61
+  - first:
+      213: -2933734188908321481
+    second: PC Computer - Stardew Valley - Tools_62
+  - first:
+      213: -38712568064837871
+    second: PC Computer - Stardew Valley - Tools_63
+  - first:
+      213: -8788810203169238263
+    second: PC Computer - Stardew Valley - Tools_64
+  - first:
+      213: -5262138752418733461
+    second: PC Computer - Stardew Valley - Tools_65
+  - first:
+      213: 4193446984764732022
+    second: PC Computer - Stardew Valley - Tools_66
+  - first:
+      213: 7405352195715753690
+    second: PC Computer - Stardew Valley - Tools_67
+  - first:
+      213: -7078367181256149443
+    second: PC Computer - Stardew Valley - Tools_68
+  - first:
+      213: 8566636168776364687
+    second: PC Computer - Stardew Valley - Tools_69
+  - first:
+      213: 3992779504278807989
+    second: PC Computer - Stardew Valley - Tools_70
+  - first:
+      213: 6284949428046924739
+    second: PC Computer - Stardew Valley - Tools_71
+  - first:
+      213: -828096133776775594
+    second: PC Computer - Stardew Valley - Tools_72
+  - first:
+      213: -894934103027083189
+    second: PC Computer - Stardew Valley - Tools_73
+  - first:
+      213: -1957087803343561189
+    second: PC Computer - Stardew Valley - Tools_74
+  - first:
+      213: 6755083565202117046
+    second: PC Computer - Stardew Valley - Tools_75
+  - first:
+      213: 2269176706577306765
+    second: PC Computer - Stardew Valley - Tools_76
+  - first:
+      213: 3410886318158231777
+    second: PC Computer - Stardew Valley - Tools_77
+  - first:
+      213: 2269093828219029433
+    second: PC Computer - Stardew Valley - Tools_78
+  - first:
+      213: 4634025050578994517
+    second: PC Computer - Stardew Valley - Tools_79
+  - first:
+      213: 4722544088998779444
+    second: PC Computer - Stardew Valley - Tools_80
+  - first:
+      213: 6484889122233785536
+    second: PC Computer - Stardew Valley - Tools_81
+  - first:
+      213: 4803797501861878416
+    second: PC Computer - Stardew Valley - Tools_82
+  - first:
+      213: 6997310542360295101
+    second: PC Computer - Stardew Valley - Tools_83
+  - first:
+      213: 9008874575003646657
+    second: PC Computer - Stardew Valley - Tools_84
+  - first:
+      213: 4714848645442126347
+    second: PC Computer - Stardew Valley - Tools_85
+  - first:
+      213: -8217420254065509388
+    second: PC Computer - Stardew Valley - Tools_86
+  - first:
+      213: -138147076092229964
+    second: PC Computer - Stardew Valley - Tools_87
+  - first:
+      213: -3208995736330111973
+    second: PC Computer - Stardew Valley - Tools_88
+  - first:
+      213: 8044535320292222251
+    second: PC Computer - Stardew Valley - Tools_89
+  - first:
+      213: -6192000547141560845
+    second: PC Computer - Stardew Valley - Tools_90
+  - first:
+      213: -6018642912439280432
+    second: PC Computer - Stardew Valley - Tools_91
+  - first:
+      213: 552147999442917214
+    second: PC Computer - Stardew Valley - Tools_92
+  - first:
+      213: -4968290370447287602
+    second: PC Computer - Stardew Valley - Tools_93
+  - first:
+      213: -1998514468387082572
+    second: PC Computer - Stardew Valley - Tools_94
+  - first:
+      213: 6317556551583950995
+    second: PC Computer - Stardew Valley - Tools_95
+  - first:
+      213: 1078707491149017152
+    second: PC Computer - Stardew Valley - Tools_96
+  - first:
+      213: 737271683304538387
+    second: PC Computer - Stardew Valley - Tools_97
+  - first:
+      213: 4808442040511501017
+    second: PC Computer - Stardew Valley - Tools_98
+  - first:
+      213: 3009211396470182273
+    second: PC Computer - Stardew Valley - Tools_99
+  - first:
+      213: -2194945085484997699
+    second: PC Computer - Stardew Valley - Tools_100
+  - first:
+      213: 7287139203661008330
+    second: PC Computer - Stardew Valley - Tools_101
+  - first:
+      213: 2949120399935279122
+    second: PC Computer - Stardew Valley - Tools_102
+  - first:
+      213: 76227813377298932
+    second: PC Computer - Stardew Valley - Tools_103
+  - first:
+      213: -6219752817074727131
+    second: PC Computer - Stardew Valley - Tools_104
+  - first:
+      213: -8680692651566788788
+    second: PC Computer - Stardew Valley - Tools_105
+  - first:
+      213: 230379440502152803
+    second: PC Computer - Stardew Valley - Tools_106
+  - first:
+      213: 5979892964259598659
+    second: PC Computer - Stardew Valley - Tools_107
+  - first:
+      213: 5787935499550176537
+    second: PC Computer - Stardew Valley - Tools_108
+  - first:
+      213: -961570447318861309
+    second: PC Computer - Stardew Valley - Tools_109
+  - first:
+      213: 1305666916986846722
+    second: PC Computer - Stardew Valley - Tools_110
+  - first:
+      213: 9103532156787898546
+    second: PC Computer - Stardew Valley - Tools_111
+  - first:
+      213: 2186641701595133486
+    second: PC Computer - Stardew Valley - Tools_112
+  - first:
+      213: 6545495649239774341
+    second: PC Computer - Stardew Valley - Tools_113
+  - first:
+      213: 3175727483604373850
+    second: PC Computer - Stardew Valley - Tools_114
+  - first:
+      213: -607187810930392644
+    second: PC Computer - Stardew Valley - Tools_115
+  - first:
+      213: 7032614079218960137
+    second: PC Computer - Stardew Valley - Tools_116
+  - first:
+      213: 5272413525804998093
+    second: PC Computer - Stardew Valley - Tools_117
+  - first:
+      213: -343486878463327342
+    second: PC Computer - Stardew Valley - Tools_118
+  - first:
+      213: 5988722206390223498
+    second: PC Computer - Stardew Valley - Tools_119
+  - first:
+      213: 3924011485409354053
+    second: PC Computer - Stardew Valley - Tools_120
+  - first:
+      213: 4457450244357235945
+    second: PC Computer - Stardew Valley - Tools_121
+  - first:
+      213: -2856867417830147179
+    second: PC Computer - Stardew Valley - Tools_122
+  - first:
+      213: 747533969494946562
+    second: PC Computer - Stardew Valley - Tools_123
+  - first:
+      213: 2075385862342845067
+    second: PC Computer - Stardew Valley - Tools_124
+  - first:
+      213: 239721872292605114
+    second: PC Computer - Stardew Valley - Tools_125
+  - first:
+      213: -8839778672941359398
+    second: PC Computer - Stardew Valley - Tools_126
+  - first:
+      213: -1378996460000341439
+    second: PC Computer - Stardew Valley - Tools_127
+  - first:
+      213: -7084771511601657394
+    second: PC Computer - Stardew Valley - Tools_128
+  - first:
+      213: -5726046147096076870
+    second: PC Computer - Stardew Valley - Tools_129
+  - first:
+      213: -8525618554742344231
+    second: PC Computer - Stardew Valley - Tools_130
+  - first:
+      213: -4335696243666897918
+    second: PC Computer - Stardew Valley - Tools_131
+  - first:
+      213: -8515258110454366689
+    second: PC Computer - Stardew Valley - Tools_132
+  - first:
+      213: -3340776539717287689
+    second: PC Computer - Stardew Valley - Tools_133
+  - first:
+      213: 5432484674664349510
+    second: PC Computer - Stardew Valley - Tools_134
+  - first:
+      213: -7933120950508210289
+    second: PC Computer - Stardew Valley - Tools_135
+  - first:
+      213: -2837835014433581176
+    second: PC Computer - Stardew Valley - Tools_136
+  - first:
+      213: 5577412819674336314
+    second: PC Computer - Stardew Valley - Tools_137
+  - first:
+      213: -7759638548441135165
+    second: PC Computer - Stardew Valley - Tools_138
+  - first:
+      213: -2864251162042421317
+    second: PC Computer - Stardew Valley - Tools_139
+  - first:
+      213: 5417657881683629309
+    second: PC Computer - Stardew Valley - Tools_140
+  - first:
+      213: -1361923994641910672
+    second: PC Computer - Stardew Valley - Tools_141
+  - first:
+      213: 4705334910294359901
+    second: PC Computer - Stardew Valley - Tools_142
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 367
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f9fa56f4f0104d0800000000000000
+      internalID: -3170235829009277148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 367
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f100883991cf0d670800000000000000
+      internalID: 8561620078410858527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 367
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7a8dc21479c43a0800000000000000
+      internalID: -6679797841116223544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8e41c77c013faa0800000000000000
+      internalID: -6128536218954831702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 367
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97732b723132354a0800000000000000
+      internalID: -6605897663245043847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 367
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c9b6c643aeed070800000000000000
+      internalID: 8133195487955885123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 367
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61980c8d69ba96870800000000000000
+      internalID: 8676654821475911958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 367
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c14ea6ce8843da0800000000000000
+      internalID: -5965993057372070786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 367
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488c4e5e9e37b55e0800000000000000
+      internalID: -1919813367721834364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 367
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0531fca56552fe170800000000000000
+      internalID: 8209821698540639056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 368
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd308c6fdab56d220800000000000000
+      internalID: 2510294645033403356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 367
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53357b439e21b1420800000000000000
+      internalID: 2601694002557702965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 367
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b743ffdce5e91b20800000000000000
+      internalID: 3105766223580972984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 368
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973b00f419791b620800000000000000
+      internalID: 2788176294670545785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_14
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 368
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c22d119c10d13940800000000000000
+      internalID: 5274225459739828931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 368
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56791e8eeb277a10800000000000000
+      internalID: 1907041270800938588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 335
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb57c8faf463ecb00800000000000000
+      internalID: 850677095495136700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 335
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed2224fa42e15530800000000000000
+      internalID: 3842100768675081710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 335
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9214a33c93ee6ea00800000000000000
+      internalID: 785577116878651689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 335
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0aa045ab7cf8ff0800000000000000
+      internalID: -31587069280476964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 335
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed3256b5f1da7990800000000000000
+      internalID: -7387361385491841565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 336
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f49dd406176f7140800000000000000
+      internalID: 4719604278776141049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_22
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 335
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974c37ac508e9f8e0800000000000000
+      internalID: -1659039876140252039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_23
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 335
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf766ee6d3cf65c0800000000000000
+      internalID: -4219938997932752949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 335
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa41879875b7ae3d0800000000000000
+      internalID: -3176590971257744214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 335
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6452e47dc72d160800000000000000
+      internalID: 7048833630959126187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_26
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 335
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0445fda0b89d0b0800000000000000
+      internalID: -5703374574275247918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 335
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fde528e89202540800000000000000
+      internalID: 4981026879921118996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_28
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 335
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2eddfcd01d9bc60800000000000000
+      internalID: 7834522884039893664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_29
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 335
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14beaf49461dcb500800000000000000
+      internalID: 413435495737649985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_30
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 335
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd015e82ae750e40800000000000000
+      internalID: 5622038946479410637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_31
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 335
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a64951bc951adc20800000000000000
+      internalID: 3231919445326251680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_32
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 335
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191c5fa0b7299f040800000000000000
+      internalID: 4681934344790851985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_33
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 335
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15eb2ff4d2c5ff2a0800000000000000
+      internalID: -6701536370819416495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 303
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a973bbbe71d222120800000000000000
+      internalID: 2387520333222197146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_35
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 303
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0affa13c3014840800000000000000
+      internalID: 5206446780723470591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_36
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 303
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98008c10033bca360800000000000000
+      internalID: 7182312524518785161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_37
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 303
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff3521e836fce1c0800000000000000
+      internalID: -4472929605729828875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 303
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230d6da8c45e5fe40800000000000000
+      internalID: 5689705821162098738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_39
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 304
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77337632b5998c3a0800000000000000
+      internalID: -6644892633470127241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_40
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 303
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f6db318bddd81e0800000000000000
+      internalID: -2193853660784660623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_41
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 303
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2aa865a382f2350800000000000000
+      internalID: 5994053860078559989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_42
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 303
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7332c1622ef0fd3e0800000000000000
+      internalID: -2026883843317030089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_43
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 303
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def395866cad84c70800000000000000
+      internalID: 8955648404715290605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_44
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 303
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b55717febf978c0800000000000000
+      internalID: -4000889788122703082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_45
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 304
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cb239b3bdcd7be0800000000000000
+      internalID: -1477798930917704569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_46
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 271
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d1c2be9ba19b300800000000000000
+      internalID: 268275038622063872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_47
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 271
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757655fdaedd5a1d0800000000000000
+      internalID: -3340019547786352809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_48
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 271
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cbae51444610160800000000000000
+      internalID: 6989978340243979407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_49
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 271
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a435165484df2a0800000000000000
+      internalID: -6702121207634638268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_50
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 271
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbe86fa4905dd2a0800000000000000
+      internalID: -6711119270183900174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43cc5a4e26a27c00800000000000000
+      internalID: 896961993546449738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_52
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 271
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0feab77eac9f99500800000000000000
+      internalID: 403628291488722672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_53
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 271
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80fbb08839176830800000000000000
+      internalID: 4064244919193825419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_54
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 271
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f630b583aac1f4230800000000000000
+      internalID: 3625147742472045423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_55
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 271
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be534cd3950a5e60800000000000000
+      internalID: 7951674224689766069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_56
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 271
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bf8ee281bc86430800000000000000
+      internalID: 3776491592276835184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 272
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d299e881b82f8f90800000000000000
+      internalID: -6949290957038054700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_58
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 271
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604579b46dc86f980800000000000000
+      internalID: -8505455994223504378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_59
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 271
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4dc2f3644446a030800000000000000
+      internalID: 3505564420479831375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_60
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 271
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842772b05dd8c0990800000000000000
+      internalID: -7418398540031364536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_61
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 271
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c586eaad9a58e9f0800000000000000
+      internalID: -439001330445023799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_62
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 271
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73563bc7c484947d0800000000000000
+      internalID: -2933734188908321481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_63
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 271
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117f62cdf17767ff0800000000000000
+      internalID: -38712568064837871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_64
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 239
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903d4c17fafd70680800000000000000
+      internalID: -8788810203169238263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_65
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 239
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62a3474fa029f6b0800000000000000
+      internalID: -5262138752418733461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_66
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 239
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672b55790dd123a30800000000000000
+      internalID: 4193446984764732022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_67
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 239
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6eb46369815c660800000000000000
+      internalID: 7405352195715753690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_68
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 239
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36b17b2d8694cd90800000000000000
+      internalID: -7078367181256149443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82bdef153ec2e670800000000000000
+      internalID: 8566636168776364687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_70
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 239
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5aff2fdc3396730800000000000000
+      internalID: 3992779504278807989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_71
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 239
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb080aa430a83750800000000000000
+      internalID: 6284949428046924739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_72
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 239
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6566c5a24f20284f0800000000000000
+      internalID: -828096133776775594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_73
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 239
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4810b3cc2e8493f0800000000000000
+      internalID: -894934103027083189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_74
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 239
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e157f030707d4e0800000000000000
+      internalID: -1957087803343561189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b193fb66b0eebd50800000000000000
+      internalID: 6755083565202117046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_76
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 207
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d849128213cbd7f10800000000000000
+      internalID: 2269176706577306765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_77
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 207
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8bf03e807e55f20800000000000000
+      internalID: 3410886318158231777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_78
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 207
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7c60980d07d7f10800000000000000
+      internalID: 2269093828219029433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_79
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 207
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555c50c3b3d5f4040800000000000000
+      internalID: 4634025050578994517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_80
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 207
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a94ece3d8d98140800000000000000
+      internalID: 4722544088998779444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_81
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 208
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc1a8a5c44fef950800000000000000
+      internalID: 6484889122233785536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_82
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 207
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ad26750648aa240800000000000000
+      internalID: 4803797501861878416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_83
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 207
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db63b7c6dd07b1160800000000000000
+      internalID: 6997310542360295101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_84
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 207
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1caf325e1b3f50d70800000000000000
+      internalID: 9008874575003646657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_85
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 207
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b024f49dcd18e6140800000000000000
+      internalID: 4714848645442126347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_86
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 207
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb335211dbd5fd80800000000000000
+      internalID: -8217420254065509388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_87
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 208
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b683ca57f3351ef0800000000000000
+      internalID: -138147076092229964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_88
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 207
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14fc4a316b5773d0800000000000000
+      internalID: -3208995736330111973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_89
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 207
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25e915804ee3af60800000000000000
+      internalID: 8044535320292222251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_90
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 207
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f55a9a1f48911aa0800000000000000
+      internalID: -6192000547141560845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_91
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 207
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc5226c82c797ca0800000000000000
+      internalID: -6018642912439280432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_92
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 207
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57dc3a1eaf99a700800000000000000
+      internalID: 552147999442917214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_93
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 208
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecade703b361d0bb0800000000000000
+      internalID: -4968290370447287602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_94
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 175
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be2f49fda9d344e0800000000000000
+      internalID: -1998514468387082572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_95
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 175
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3986a9936387ca750800000000000000
+      internalID: 6317556551583950995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_96
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 175
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0407d7a7fb658fe00800000000000000
+      internalID: 1078707491149017152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_97
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 175
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311425290b05b3a00800000000000000
+      internalID: 737271683304538387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_98
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 175
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d21eb34f840bb240800000000000000
+      internalID: 4808442040511501017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_99
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 176
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18199a452ddd2c920800000000000000
+      internalID: 3009211396470182273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_100
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 175
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db36d26f21df981e0800000000000000
+      internalID: -2194945085484997699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_101
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 175
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd890f2f7e112560800000000000000
+      internalID: 7287139203661008330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_102
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 175
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210100ee0616de820800000000000000
+      internalID: 2949120399935279122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_103
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 175
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1db5adac0de0100800000000000000
+      internalID: 76227813377298932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_104
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 175
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527968b34cffea9a0800000000000000
+      internalID: -6219752817074727131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_105
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 176
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f8403960cf78780800000000000000
+      internalID: -8680692651566788788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_106
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 144
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e1faa61e8723300800000000000000
+      internalID: 230379440502152803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_107
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 145
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3411d89d7f8dcf250800000000000000
+      internalID: 5979892964259598659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_108
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 144
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915bf89cba0e25050800000000000000
+      internalID: 5787935499550176537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_109
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30abb05d5c0d7a2f0800000000000000
+      internalID: -961570447318861309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_110
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 144
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20efafda429ae1210800000000000000
+      internalID: 1305666916986846722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_111
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 144
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b830b6934e365e70800000000000000
+      internalID: 9103532156787898546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_112
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 145
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2632a2da03885e10800000000000000
+      internalID: 2186641701595133486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_113
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 144
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5843dcb0d9546da50800000000000000
+      internalID: 6545495649239774341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a511fa31253721c20800000000000000
+      internalID: 3175727483604373850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_115
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 144
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb10c8927e5d297f0800000000000000
+      internalID: -607187810930392644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_116
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 144
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907c142ae3dd89160800000000000000
+      internalID: 7032614079218960137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_117
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 145
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd5292da206b2940800000000000000
+      internalID: 5272413525804998093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_118
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 144
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2938f200180bb3bf0800000000000000
+      internalID: -343486878463327342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_119
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82026afd173c1350800000000000000
+      internalID: 5988722206390223498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_120
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 144
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541a06ad7a3e47630800000000000000
+      internalID: 3924011485409354053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_121
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 112
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e424e2716b0cdd30800000000000000
+      internalID: 4457450244357235945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_122
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 113
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bb8d5483e5a58d0800000000000000
+      internalID: -2856867417830147179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_123
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 112
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203b8454f26cf5a00800000000000000
+      internalID: 747533969494946562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_124
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8220d822704dcc10800000000000000
+      internalID: 2075385862342845067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_125
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 112
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc64e2d5c9a35300800000000000000
+      internalID: 239721872292605114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_126
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 112
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade9142d12cc25580800000000000000
+      internalID: -8839778672941359398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_127
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 113
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142982f9602dcdce0800000000000000
+      internalID: -1378996460000341439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_128
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 112
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec90d20d8d5ddad90800000000000000
+      internalID: -7084771511601657394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_129
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd18dafd5ff880b0800000000000000
+      internalID: -5726046147096076870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_130
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 112
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d57a1a581beea980800000000000000
+      internalID: -8525618554742344231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_131
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 117
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2043d36ec3384d3c0800000000000000
+      internalID: -4335696243666897918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_132
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 26
+        width: 19
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e7a934dd9b3d980800000000000000
+      internalID: -8515258110454366689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_133
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 70
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f04134ff6d23a1d0800000000000000
+      internalID: -3340776539717287689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_134
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 68
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f3f117700146b40800000000000000
+      internalID: 5432484674664349510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_135
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 62
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87bfb8e684e7e190800000000000000
+      internalID: -7933120950508210289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_136
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8875581071cfd98d0800000000000000
+      internalID: -2837835014433581176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_137
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 69
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c066ab863f66d40800000000000000
+      internalID: 5577412819674336314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_138
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 58
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c70dbe3ad9305490800000000000000
+      internalID: -7759638548441135165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_139
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 25
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf26fa5eb22048d0800000000000000
+      internalID: -2864251162042421317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_140
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 19
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df41950b3236f2b40800000000000000
+      internalID: 5417657881683629309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_141
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 11
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074b948b759791de0800000000000000
+      internalID: -1361923994641910672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Tools_142
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 5
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ff655cb25bc4140800000000000000
+      internalID: 4705334910294359901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - Stardew Valley - Tools_0: -3170235829009277148
+      PC Computer - Stardew Valley - Tools_1: 8561620078410858527
+      PC Computer - Stardew Valley - Tools_10: 2510294645033403356
+      PC Computer - Stardew Valley - Tools_100: -2194945085484997699
+      PC Computer - Stardew Valley - Tools_101: 7287139203661008330
+      PC Computer - Stardew Valley - Tools_102: 2949120399935279122
+      PC Computer - Stardew Valley - Tools_103: 76227813377298932
+      PC Computer - Stardew Valley - Tools_104: -6219752817074727131
+      PC Computer - Stardew Valley - Tools_105: -8680692651566788788
+      PC Computer - Stardew Valley - Tools_106: 230379440502152803
+      PC Computer - Stardew Valley - Tools_107: 5979892964259598659
+      PC Computer - Stardew Valley - Tools_108: 5787935499550176537
+      PC Computer - Stardew Valley - Tools_109: -961570447318861309
+      PC Computer - Stardew Valley - Tools_11: 2601694002557702965
+      PC Computer - Stardew Valley - Tools_110: 1305666916986846722
+      PC Computer - Stardew Valley - Tools_111: 9103532156787898546
+      PC Computer - Stardew Valley - Tools_112: 2186641701595133486
+      PC Computer - Stardew Valley - Tools_113: 6545495649239774341
+      PC Computer - Stardew Valley - Tools_114: 3175727483604373850
+      PC Computer - Stardew Valley - Tools_115: -607187810930392644
+      PC Computer - Stardew Valley - Tools_116: 7032614079218960137
+      PC Computer - Stardew Valley - Tools_117: 5272413525804998093
+      PC Computer - Stardew Valley - Tools_118: -343486878463327342
+      PC Computer - Stardew Valley - Tools_119: 5988722206390223498
+      PC Computer - Stardew Valley - Tools_12: 3105766223580972984
+      PC Computer - Stardew Valley - Tools_120: 3924011485409354053
+      PC Computer - Stardew Valley - Tools_121: 4457450244357235945
+      PC Computer - Stardew Valley - Tools_122: -2856867417830147179
+      PC Computer - Stardew Valley - Tools_123: 747533969494946562
+      PC Computer - Stardew Valley - Tools_124: 2075385862342845067
+      PC Computer - Stardew Valley - Tools_125: 239721872292605114
+      PC Computer - Stardew Valley - Tools_126: -8839778672941359398
+      PC Computer - Stardew Valley - Tools_127: -1378996460000341439
+      PC Computer - Stardew Valley - Tools_128: -7084771511601657394
+      PC Computer - Stardew Valley - Tools_129: -5726046147096076870
+      PC Computer - Stardew Valley - Tools_13: 2788176294670545785
+      PC Computer - Stardew Valley - Tools_130: -8525618554742344231
+      PC Computer - Stardew Valley - Tools_131: -4335696243666897918
+      PC Computer - Stardew Valley - Tools_132: -8515258110454366689
+      PC Computer - Stardew Valley - Tools_133: -3340776539717287689
+      PC Computer - Stardew Valley - Tools_134: 5432484674664349510
+      PC Computer - Stardew Valley - Tools_135: -7933120950508210289
+      PC Computer - Stardew Valley - Tools_136: -2837835014433581176
+      PC Computer - Stardew Valley - Tools_137: 5577412819674336314
+      PC Computer - Stardew Valley - Tools_138: -7759638548441135165
+      PC Computer - Stardew Valley - Tools_139: -2864251162042421317
+      PC Computer - Stardew Valley - Tools_14: 5274225459739828931
+      PC Computer - Stardew Valley - Tools_140: 5417657881683629309
+      PC Computer - Stardew Valley - Tools_141: -1361923994641910672
+      PC Computer - Stardew Valley - Tools_142: 4705334910294359901
+      PC Computer - Stardew Valley - Tools_15: 1907041270800938588
+      PC Computer - Stardew Valley - Tools_16: 850677095495136700
+      PC Computer - Stardew Valley - Tools_17: 3842100768675081710
+      PC Computer - Stardew Valley - Tools_18: 785577116878651689
+      PC Computer - Stardew Valley - Tools_19: -31587069280476964
+      PC Computer - Stardew Valley - Tools_2: -6679797841116223544
+      PC Computer - Stardew Valley - Tools_20: -7387361385491841565
+      PC Computer - Stardew Valley - Tools_21: 4719604278776141049
+      PC Computer - Stardew Valley - Tools_22: -1659039876140252039
+      PC Computer - Stardew Valley - Tools_23: -4219938997932752949
+      PC Computer - Stardew Valley - Tools_24: -3176590971257744214
+      PC Computer - Stardew Valley - Tools_25: 7048833630959126187
+      PC Computer - Stardew Valley - Tools_26: -5703374574275247918
+      PC Computer - Stardew Valley - Tools_27: 4981026879921118996
+      PC Computer - Stardew Valley - Tools_28: 7834522884039893664
+      PC Computer - Stardew Valley - Tools_29: 413435495737649985
+      PC Computer - Stardew Valley - Tools_3: -6128536218954831702
+      PC Computer - Stardew Valley - Tools_30: 5622038946479410637
+      PC Computer - Stardew Valley - Tools_31: 3231919445326251680
+      PC Computer - Stardew Valley - Tools_32: 4681934344790851985
+      PC Computer - Stardew Valley - Tools_33: -6701536370819416495
+      PC Computer - Stardew Valley - Tools_34: 2387520333222197146
+      PC Computer - Stardew Valley - Tools_35: 5206446780723470591
+      PC Computer - Stardew Valley - Tools_36: 7182312524518785161
+      PC Computer - Stardew Valley - Tools_37: -4472929605729828875
+      PC Computer - Stardew Valley - Tools_38: 5689705821162098738
+      PC Computer - Stardew Valley - Tools_39: -6644892633470127241
+      PC Computer - Stardew Valley - Tools_4: -6605897663245043847
+      PC Computer - Stardew Valley - Tools_40: -2193853660784660623
+      PC Computer - Stardew Valley - Tools_41: 5994053860078559989
+      PC Computer - Stardew Valley - Tools_42: -2026883843317030089
+      PC Computer - Stardew Valley - Tools_43: 8955648404715290605
+      PC Computer - Stardew Valley - Tools_44: -4000889788122703082
+      PC Computer - Stardew Valley - Tools_45: -1477798930917704569
+      PC Computer - Stardew Valley - Tools_46: 268275038622063872
+      PC Computer - Stardew Valley - Tools_47: -3340019547786352809
+      PC Computer - Stardew Valley - Tools_48: 6989978340243979407
+      PC Computer - Stardew Valley - Tools_49: -6702121207634638268
+      PC Computer - Stardew Valley - Tools_5: 8133195487955885123
+      PC Computer - Stardew Valley - Tools_50: -6711119270183900174
+      PC Computer - Stardew Valley - Tools_51: 896961993546449738
+      PC Computer - Stardew Valley - Tools_52: 403628291488722672
+      PC Computer - Stardew Valley - Tools_53: 4064244919193825419
+      PC Computer - Stardew Valley - Tools_54: 3625147742472045423
+      PC Computer - Stardew Valley - Tools_55: 7951674224689766069
+      PC Computer - Stardew Valley - Tools_56: 3776491592276835184
+      PC Computer - Stardew Valley - Tools_57: -6949290957038054700
+      PC Computer - Stardew Valley - Tools_58: -8505455994223504378
+      PC Computer - Stardew Valley - Tools_59: 3505564420479831375
+      PC Computer - Stardew Valley - Tools_6: 8676654821475911958
+      PC Computer - Stardew Valley - Tools_60: -7418398540031364536
+      PC Computer - Stardew Valley - Tools_61: -439001330445023799
+      PC Computer - Stardew Valley - Tools_62: -2933734188908321481
+      PC Computer - Stardew Valley - Tools_63: -38712568064837871
+      PC Computer - Stardew Valley - Tools_64: -8788810203169238263
+      PC Computer - Stardew Valley - Tools_65: -5262138752418733461
+      PC Computer - Stardew Valley - Tools_66: 4193446984764732022
+      PC Computer - Stardew Valley - Tools_67: 7405352195715753690
+      PC Computer - Stardew Valley - Tools_68: -7078367181256149443
+      PC Computer - Stardew Valley - Tools_69: 8566636168776364687
+      PC Computer - Stardew Valley - Tools_7: -5965993057372070786
+      PC Computer - Stardew Valley - Tools_70: 3992779504278807989
+      PC Computer - Stardew Valley - Tools_71: 6284949428046924739
+      PC Computer - Stardew Valley - Tools_72: -828096133776775594
+      PC Computer - Stardew Valley - Tools_73: -894934103027083189
+      PC Computer - Stardew Valley - Tools_74: -1957087803343561189
+      PC Computer - Stardew Valley - Tools_75: 6755083565202117046
+      PC Computer - Stardew Valley - Tools_76: 2269176706577306765
+      PC Computer - Stardew Valley - Tools_77: 3410886318158231777
+      PC Computer - Stardew Valley - Tools_78: 2269093828219029433
+      PC Computer - Stardew Valley - Tools_79: 4634025050578994517
+      PC Computer - Stardew Valley - Tools_8: -1919813367721834364
+      PC Computer - Stardew Valley - Tools_80: 4722544088998779444
+      PC Computer - Stardew Valley - Tools_81: 6484889122233785536
+      PC Computer - Stardew Valley - Tools_82: 4803797501861878416
+      PC Computer - Stardew Valley - Tools_83: 6997310542360295101
+      PC Computer - Stardew Valley - Tools_84: 9008874575003646657
+      PC Computer - Stardew Valley - Tools_85: 4714848645442126347
+      PC Computer - Stardew Valley - Tools_86: -8217420254065509388
+      PC Computer - Stardew Valley - Tools_87: -138147076092229964
+      PC Computer - Stardew Valley - Tools_88: -3208995736330111973
+      PC Computer - Stardew Valley - Tools_89: 8044535320292222251
+      PC Computer - Stardew Valley - Tools_9: 8209821698540639056
+      PC Computer - Stardew Valley - Tools_90: -6192000547141560845
+      PC Computer - Stardew Valley - Tools_91: -6018642912439280432
+      PC Computer - Stardew Valley - Tools_92: 552147999442917214
+      PC Computer - Stardew Valley - Tools_93: -4968290370447287602
+      PC Computer - Stardew Valley - Tools_94: -1998514468387082572
+      PC Computer - Stardew Valley - Tools_95: 6317556551583950995
+      PC Computer - Stardew Valley - Tools_96: 1078707491149017152
+      PC Computer - Stardew Valley - Tools_97: 737271683304538387
+      PC Computer - Stardew Valley - Tools_98: 4808442040511501017
+      PC Computer - Stardew Valley - Tools_99: 3009211396470182273
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
