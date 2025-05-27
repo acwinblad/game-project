@@ -3810,8 +3810,8 @@ TextureImporter:
         y: 1584
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline:
@@ -3830,6 +3830,58 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Outdoors Spring_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1568
+        width: 48
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 8, y: -32}
+        - {x: 24, y: -32}
+        - {x: 24, y: 48}
+        - {x: -24, y: 48}
+        - {x: -24, y: -32}
+        - {x: -8, y: -32}
+        - {x: -8, y: -48}
+        - {x: 8, y: -48}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cb11a78c60a5b43800d4eeb241520f
+      internalID: 76477700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outdoors Spring_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1568
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dbce8da141d2845b65983755ee8510
+      internalID: -714350354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -3844,6 +3896,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      Outdoors Spring_0: 76477700
+      Outdoors Spring_1: -714350354
       PC Computer - Stardew Valley - Outdoors Spring_0: -4943972339582527070
       PC Computer - Stardew Valley - Outdoors Spring_1: -6344583969787449144
       PC Computer - Stardew Valley - Outdoors Spring_10: 7477421916909677963

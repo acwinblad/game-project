@@ -22,7 +22,9 @@ public class PlayerController : MonoBehaviour
 
   // Variables related to animation
   Animator animator;
-  Vector2 moveDirection = new Vector2(1, 0);
+  // This two line setup is a cs/c# method for accessing private variables
+  private Vector2 moveDirection = new Vector2(1, 0);
+  public Vector2 MoveDirection => moveDirection;
 
   // Variables related to projectiles
   //public GameObject projectilePrefab;
