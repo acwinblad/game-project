@@ -23,8 +23,6 @@ public class ResourceHarvestable : ToolHit
       if (child != null)
       {
         Vector3 position = transform.position;
-        //position.x -= 0.5f;
-        //position.y -= 0.31f;
         GameObject go = Instantiate(child, position, Quaternion.identity);
         Destroy(gameObject);
       }

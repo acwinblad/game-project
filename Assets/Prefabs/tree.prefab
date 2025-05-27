@@ -102,8 +102,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pickUpDrop: {fileID: 7205341043720136183, guid: a8ca90f8af5b343419ff2cb9b8ddeacd, type: 3}
-  dropCount: 2
-  spread: 0.7
+  dropCount: 4
+  spread: 2
   child: {fileID: 3626375037407197500, guid: 0819cc2ed2d1bca41997f54622772915, type: 3}
 --- !u!61 &6969443641299420377
 BoxCollider2D:
