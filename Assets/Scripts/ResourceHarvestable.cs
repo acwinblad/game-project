@@ -6,7 +6,6 @@ public class ResourceHarvestable : ToolHit
   [SerializeField] GameObject pickUpDrop;
   [SerializeField] int dropCount = 2;
   [SerializeField] float spread = 1.7f;
-  [SerializeField] bool hasChild = false;
   [SerializeField] GameObject child;
   public override void Hit()
   {
@@ -21,11 +20,11 @@ public class ResourceHarvestable : ToolHit
     }
     if (dropCount <= 0)
     {
-      if (hasChild && child != null)
+      if (child != null)
       {
         Vector3 position = transform.position;
-        position.x -= 0.5f;
-        position.y -= 0.31f;
+        //position.x -= 0.5f;
+        //position.y -= 0.31f;
         GameObject go = Instantiate(child, position, Quaternion.identity);
         Destroy(gameObject);
       }
